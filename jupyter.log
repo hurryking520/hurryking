@@ -1,0 +1,23 @@
+nohup: ignoring input
+[W 14:48:21.509 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 14:48:21.513 NotebookApp] Serving notebooks from local directory: /zqh/pyproject
+[I 14:48:21.513 NotebookApp] The Jupyter Notebook is running at:
+[I 14:48:21.513 NotebookApp] http://iZwz9ix2sgagsdqpj4ufebZ:8889/
+[I 14:48:21.513 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 14:48:21.617 NotebookApp] 404 GET /api/contents/pyproject?type=directory&_=1578984403802 (183.230.102.100): No such file or directory: pyproject
+[W 14:48:21.617 NotebookApp] No such file or directory: pyproject
+[W 14:48:21.617 NotebookApp] 404 GET /api/contents/pyproject?type=directory&_=1578984403802 (183.230.102.100) 1.40ms referer=http://120.24.63.215:8889/tree/pyproject
+[I 14:49:21.825 NotebookApp] Kernel started: 09ab15a8-6f0b-4e27-92c6-d9f3c316a613
+[I 14:51:23.169 NotebookApp] Saving file at /stock_pro/stock_ma.ipynb
+[I 14:57:22.552 NotebookApp] Saving file at /stock_pro/stock_ma.ipynb
+[I 14:59:22.543 NotebookApp] Saving file at /stock_pro/stock_ma.ipynb
+[I 15:08:21.024 NotebookApp] Starting buffering for 09ab15a8-6f0b-4e27-92c6-d9f3c316a613:8eb8e1385ef846bb844b0078cba1ae69
+[W 15:08:23.998 NotebookApp] 403 POST /api/shutdown (183.230.102.100) 22.44ms referer=http://120.24.63.215:8889/tree/stock_pro
+[W 15:08:46.421 NotebookApp] Forbidden
+[W 15:08:46.421 NotebookApp] 403 GET /api/sessions?_=1578984527965 (183.230.102.100) 1.22ms referer=http://120.24.63.215:8889/tree/stock_pro
+[W 15:08:46.424 NotebookApp] Forbidden
+[W 15:08:46.425 NotebookApp] 403 GET /api/terminals?_=1578984527966 (183.230.102.100) 1.09ms referer=http://120.24.63.215:8889/tree/stock_pro
+[W 15:09:14.871 NotebookApp] Forbidden
+[W 15:09:14.872 NotebookApp] 403 GET /api/sessions?_=1578984527967 (183.230.102.100) 1.51ms referer=http://120.24.63.215:8889/tree/stock_pro
+[W 15:09:14.873 NotebookApp] Forbidden
+[W 15:09:14.873 NotebookApp] 403 GET /api/terminals?_=1578984527968 (183.230.102.100) 0.87ms referer=http://120.24.63.215:8889/tree/stock_pro
