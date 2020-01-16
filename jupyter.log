@@ -21,3 +21,34 @@ nohup: ignoring input
 [W 15:09:14.872 NotebookApp] 403 GET /api/sessions?_=1578984527967 (183.230.102.100) 1.51ms referer=http://120.24.63.215:8889/tree/stock_pro
 [W 15:09:14.873 NotebookApp] Forbidden
 [W 15:09:14.873 NotebookApp] 403 GET /api/terminals?_=1578984527968 (183.230.102.100) 0.87ms referer=http://120.24.63.215:8889/tree/stock_pro
+[I 08:54:31.500 NotebookApp] 302 GET /tree? (183.230.102.100) 0.92ms
+[I 08:54:42.369 NotebookApp] 302 POST /login?next=%2Ftree%3F (183.230.102.100) 1.49ms
+[I 14:03:27.827 NotebookApp] 302 GET /tree? (183.230.102.100) 0.91ms
+[I 14:03:30.812 NotebookApp] 302 POST /login?next=%2Ftree%3F (183.230.102.100) 1.32ms
+[I 14:18:03.861 NotebookApp] Saving file at /stock_pro/stock_ma.ipynb
+[I 14:20:04.056 NotebookApp] Saving file at /stock_pro/stock_ma.ipynb
+[I 14:28:04.062 NotebookApp] Saving file at /stock_pro/stock_ma.ipynb
+[I 14:30:04.061 NotebookApp] Saving file at /stock_pro/stock_ma.ipynb
+[I 14:44:03.865 NotebookApp] Saving file at /stock_pro/stock_ma.ipynb
+[I 14:46:03.855 NotebookApp] Saving file at /stock_pro/stock_ma.ipynb
+[I 14:48:03.841 NotebookApp] Saving file at /stock_pro/stock_ma.ipynb
+[I 14:55:54.073 NotebookApp] 302 GET / (122.228.19.79) 0.67ms
+[I 14:55:54.141 NotebookApp] 302 GET /tree? (122.228.19.79) 0.78ms
+[I 14:57:33.437 NotebookApp] Starting buffering for 09ab15a8-6f0b-4e27-92c6-d9f3c316a613:3a49585c3f17490fbe914f19af249c89
+[I 10:34:51.160 NotebookApp] Kernel started: 419d5e6c-5fdd-4f99-b1c7-045517d31344
+[I 10:36:51.231 NotebookApp] Saving file at /stock_pro/duo_kong_lab.ipynb
+[I 10:38:51.644 NotebookApp] Saving file at /stock_pro/duo_kong_lab.ipynb
+[I 10:42:51.469 NotebookApp] Saving file at /stock_pro/duo_kong_lab.ipynb
+[I 10:52:51.243 NotebookApp] Saving file at /stock_pro/duo_kong_lab.ipynb
+[I 10:53:25.459 NotebookApp] Saving file at /stock_pro/duo_kong_lab.ipynb
+[I 10:54:51.982 NotebookApp] Saving file at /stock_pro/duo_kong_lab.ipynb
+[I 10:56:51.897 NotebookApp] Saving file at /stock_pro/duo_kong_lab.ipynb
+[I 10:59:36.350 NotebookApp] Saving file at /stock_pro/duo_kong_lab.ipynb
+[I 11:01:29.565 NotebookApp] Saving file at /stock_pro/duo_kong_lab.ipynb
+[I 11:10:51.243 NotebookApp] Saving file at /stock_pro/duo_kong_lab.ipynb
+[I 11:12:51.257 NotebookApp] Saving file at /stock_pro/duo_kong_lab.ipynb
+[I 11:18:14.644 NotebookApp] Saving file at /stock_pro/duo_kong_lab.ipynb
+[I 11:18:51.652 NotebookApp] Saving file at /stock_pro/duo_kong_lab.ipynb
+[I 11:19:41.411 NotebookApp] Saving file at /stock_pro/duo_kong_lab.ipynb
+[I 11:20:22.939 NotebookApp] Starting buffering for 419d5e6c-5fdd-4f99-b1c7-045517d31344:c06b255d1fdc49a9857dc876a7ceb796
+[I 11:20:23.443 NotebookApp] Starting buffering for 09ab15a8-6f0b-4e27-92c6-d9f3c316a613:f90587e1c2a644c7a4519ab9ef1d07d1
