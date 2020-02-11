@@ -1,508 +1,156 @@
 nohup: ignoring input
-[W 00:01:52.402 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
-[I 00:01:52.425 NotebookApp] Serving notebooks from local directory: /zqh/pyproject
-[I 00:01:52.425 NotebookApp] The Jupyter Notebook is running at:
-[I 00:01:52.425 NotebookApp] http://iZwz9ix2sgagsdqpj4ufebZ:8889/
-[I 00:01:52.425 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[I 00:02:10.472 NotebookApp] Kernel started: 1f514785-86ed-412a-bcd9-3088743a6055
-[I 00:02:54.715 NotebookApp] Kernel started: 8f697cb9-9fc9-44a3-babf-cd43ec32dc3a
-[I 00:04:10.552 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 00:04:34.022 NotebookApp] Kernel interrupted: 1f514785-86ed-412a-bcd9-3088743a6055
-[I 00:04:55.424 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 00:06:10.553 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 00:16:11.074 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 00:16:52.346 NotebookApp] Kernel interrupted: 1f514785-86ed-412a-bcd9-3088743a6055
-[I 00:18:10.540 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 00:20:10.521 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 00:20:55.519 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 00:21:10.955 NotebookApp] Kernel interrupted: 1f514785-86ed-412a-bcd9-3088743a6055
-[I 00:22:11.425 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 00:28:30.140 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 00:29:14.885 NotebookApp] Kernel interrupted: 1f514785-86ed-412a-bcd9-3088743a6055
-[I 00:29:54.217 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 00:29:55.103 NotebookApp] Starting buffering for 1f514785-86ed-412a-bcd9-3088743a6055:e0aed6a06e3d4cfc835311258458358c
-[I 00:29:58.717 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 00:29:59.669 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 00:30:00.348 NotebookApp] Starting buffering for 8f697cb9-9fc9-44a3-babf-cd43ec32dc3a:eae77c9a4d984990a1cec919053bcf7d
-[I 09:35:15.026 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 09:37:15.011 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 09:38:40.333 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 09:39:14.977 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 09:40:40.335 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 09:41:15.184 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 09:42:40.329 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 09:43:14.974 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 09:44:40.338 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 09:45:14.973 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 09:46:40.336 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 09:47:14.968 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 09:48:40.331 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 09:49:14.971 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 09:53:14.966 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 09:55:14.967 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 09:56:40.477 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 09:57:14.964 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 09:58:40.325 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 09:59:14.982 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 10:00:40.334 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 10:01:14.971 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 10:15:34.705 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 10:16:40.480 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 10:18:55.015 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 10:20:40.327 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 10:22:17.774 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 10:30:40.370 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 10:32:15.364 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 10:39:14.889 NotebookApp] Starting buffering for 1f514785-86ed-412a-bcd9-3088743a6055:6e630dbef92c4f1c91064ebf0781b4df
-[I 10:39:16.696 NotebookApp] Starting buffering for 8f697cb9-9fc9-44a3-babf-cd43ec32dc3a:e950a670209a43b881e3f3b1b8fdcdd0
-[I 12:48:27.819 NotebookApp] Kernel started: fe900a1c-6569-4bf6-a342-53dfee34889c
-[I 12:50:27.959 NotebookApp] Saving file at /nn_code.ipynb
-[I 12:52:28.089 NotebookApp] Saving file at /nn_code.ipynb
-[I 12:52:41.543 NotebookApp] Kernel started: cb873c65-3b67-4150-bcee-87b76052d8e2
-[I 12:52:45.074 NotebookApp] Starting buffering for cb873c65-3b67-4150-bcee-87b76052d8e2:824df35713e44721b27c2571b5970f5c
-[I 12:52:54.275 NotebookApp] Kernel started: 58f63ce3-6daa-4824-b039-30362b39e2df
-[I 12:52:57.931 NotebookApp] Starting buffering for 58f63ce3-6daa-4824-b039-30362b39e2df:127abb5fd69048a586b7bbb436f9fc55
-[I 12:53:02.865 NotebookApp] Kernel started: 83f0909c-2300-4de8-9cee-8e470c421b5b
-[I 12:53:15.085 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 12:53:33.164 NotebookApp] Kernel interrupted: fe900a1c-6569-4bf6-a342-53dfee34889c
-[I 12:54:27.909 NotebookApp] Saving file at /nn_code.ipynb
-[I 12:56:27.863 NotebookApp] Saving file at /nn_code.ipynb
-[I 12:56:30.233 NotebookApp] Kernel interrupted: fe900a1c-6569-4bf6-a342-53dfee34889c
-[I 12:58:27.861 NotebookApp] Saving file at /nn_code.ipynb
-[I 14:17:02.993 NotebookApp] Starting buffering for fe900a1c-6569-4bf6-a342-53dfee34889c:f7d881433745438584d99d7c694bebc2
-[I 14:17:03.421 NotebookApp] Starting buffering for 1f514785-86ed-412a-bcd9-3088743a6055:c152d8ad2a2240ca82654269c627d58f
-[I 14:17:03.864 NotebookApp] Starting buffering for 83f0909c-2300-4de8-9cee-8e470c421b5b:273a20746f63421186219f679b66b94f
-[I 02:34:25.284 NotebookApp] 302 GET / (119.61.6.134) 0.70ms
-[I 02:36:32.062 NotebookApp] 302 GET / (119.61.6.134) 0.59ms
-[I 02:36:32.143 NotebookApp] 302 GET /tree? (119.61.6.134) 0.81ms
-[I 11:17:30.142 NotebookApp] Starting buffering for cb873c65-3b67-4150-bcee-87b76052d8e2:3569e8af7a274deda830ce1c9b6a33fd
-[I 11:17:33.426 NotebookApp] Kernel started: 4967cfa7-3d10-4623-bea5-bdaaaa4f2f86
-[I 11:17:35.937 NotebookApp] Starting buffering for 4967cfa7-3d10-4623-bea5-bdaaaa4f2f86:0456a209de3a44fb8b719ac74ac911a5
-[I 11:31:45.953 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 11:33:45.867 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 11:38:09.868 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
-[I 11:38:10.357 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 11:38:29.293 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 11:45:21.979 NotebookApp] Starting buffering for 1f514785-86ed-412a-bcd9-3088743a6055:fbad020eb26a499c89f439c037d15c35
-[I 11:45:43.340 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 11:45:44.157 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 11:45:46.215 NotebookApp] Starting buffering for 83f0909c-2300-4de8-9cee-8e470c421b5b:25f4049fbd28468a87a060cbd40d25a4
-[I 11:46:29.386 NotebookApp] Kernel started: b6db7833-f1e4-45a9-90a2-172be56ce3c7
-[I 11:46:33.562 NotebookApp] Starting buffering for b6db7833-f1e4-45a9-90a2-172be56ce3c7:4f61bc5397e8434283eac24fcd6b09d1
-[I 11:48:26.983 NotebookApp] Saving file at /stock_pro/train_test_data.ipynb
-[I 11:49:01.157 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 11:51:35.980 NotebookApp] Starting buffering for 4967cfa7-3d10-4623-bea5-bdaaaa4f2f86:e731ae431782427babe02e5dfdac6f28
-[I 11:53:01.019 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 11:55:00.265 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 11:57:00.258 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 11:59:00.334 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 11:59:03.414 NotebookApp] Starting buffering for 1f514785-86ed-412a-bcd9-3088743a6055:cb4d33ec7bda479f810eeb65054d6c07
-[I 12:00:52.974 NotebookApp] Saving file at /stock_pro/train_test_data.ipynb
-[I 12:01:16.256 NotebookApp] Kernel interrupted: 1f514785-86ed-412a-bcd9-3088743a6055
-[I 12:01:35.259 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 12:01:48.974 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 12:07:00.266 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 12:09:00.257 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 12:11:00.971 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 12:25:19.974 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 12:30:45.434 NotebookApp] Kernel interrupted: 83f0909c-2300-4de8-9cee-8e470c421b5b
-[I 12:32:01.004 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 12:35:00.368 NotebookApp] Starting buffering for 1f514785-86ed-412a-bcd9-3088743a6055:c0fe62d7810f4fe399d9b8d64bc1c1c2
-[I 12:35:02.699 NotebookApp] Starting buffering for 8f697cb9-9fc9-44a3-babf-cd43ec32dc3a:1672a7606ed745f18447892bf1c0f6b4
-[I 12:35:21.008 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 12:36:52.778 NotebookApp] Saving file at /stock_pro/train_test_data.ipynb
-[I 12:38:40.109 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 12:42:00.968 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 12:44:52.956 NotebookApp] Saving file at /stock_pro/train_test_data.ipynb
-[I 12:45:20.962 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 12:58:41.529 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 13:02:01.130 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 13:05:55.450 NotebookApp] Starting buffering for 83f0909c-2300-4de8-9cee-8e470c421b5b:810773c6b7d044569aa3a908dfbf97d3
-[I 13:06:11.124 NotebookApp] Saving file at /stock_pro/train_test_data.ipynb
-[I 13:06:12.167 NotebookApp] Saving file at /stock_pro/train_test_data.ipynb
-[I 13:06:13.165 NotebookApp] Starting buffering for 4967cfa7-3d10-4623-bea5-bdaaaa4f2f86:f05bb19cb92c40198b3dc70f2ac363f4
-[I 13:08:07.262 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 13:08:18.945 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 13:09:30.699 NotebookApp] Kernel interrupted: 1f514785-86ed-412a-bcd9-3088743a6055
-[I 13:10:07.515 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 13:23:08.987 NotebookApp] 302 GET / (47.94.52.159) 0.65ms
-[I 15:00:18.966 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 15:02:06.978 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 15:02:18.908 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 15:08:08.448 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 15:38:08.424 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 15:44:08.416 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 15:46:07.917 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 15:50:06.953 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 16:14:07.498 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 16:16:07.890 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 16:18:06.958 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 16:22:06.949 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 16:23:14.161 NotebookApp] Discarding 1 buffered messages for fe900a1c-6569-4bf6-a342-53dfee34889c:f7d881433745438584d99d7c694bebc2
-[I 16:24:06.952 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 16:30:06.943 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 16:32:06.941 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 16:32:18.891 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 16:33:51.974 NotebookApp] Kernel interrupted: 1f514785-86ed-412a-bcd9-3088743a6055
-[I 16:34:07.023 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 16:36:07.971 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 16:38:07.045 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 16:40:07.069 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 16:42:07.131 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 16:44:07.178 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 16:46:07.375 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 16:48:07.552 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 16:50:07.456 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 16:52:07.461 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 16:54:07.438 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 16:54:18.356 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 16:56:07.117 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 16:56:18.881 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 16:58:07.163 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 17:00:07.005 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 17:02:07.141 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 17:04:07.116 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 17:06:07.114 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 17:08:02.851 NotebookApp] Kernel interrupted: 1f514785-86ed-412a-bcd9-3088743a6055
-[I 17:08:07.005 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 17:10:07.011 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 17:12:07.006 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 17:14:07.004 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 17:16:06.997 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 17:18:07.004 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 17:20:06.999 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 17:22:06.997 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 17:24:07.002 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 17:26:07.004 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 17:28:06.995 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 17:30:06.997 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 17:32:07.035 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 17:34:06.997 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 17:36:07.935 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 17:38:07.937 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 17:40:07.947 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 17:42:07.010 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 17:44:06.991 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 17:46:06.999 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 17:47:01.019 NotebookApp] Kernel interrupted: 1f514785-86ed-412a-bcd9-3088743a6055
-[I 17:47:36.762 NotebookApp] Kernel interrupted: 1f514785-86ed-412a-bcd9-3088743a6055
-[I 17:48:04.961 NotebookApp] Kernel interrupted: 1f514785-86ed-412a-bcd9-3088743a6055
-[I 17:48:07.184 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 17:48:29.531 NotebookApp] Kernel interrupted: 1f514785-86ed-412a-bcd9-3088743a6055
-[I 17:48:45.570 NotebookApp] Kernel interrupted: 1f514785-86ed-412a-bcd9-3088743a6055
-[I 17:50:00.715 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 17:50:07.170 NotebookApp] Starting buffering for 8f697cb9-9fc9-44a3-babf-cd43ec32dc3a:da87c1879bc246df8ebb6edb3c901f75
-[I 17:50:22.091 NotebookApp] Starting buffering for 83f0909c-2300-4de8-9cee-8e470c421b5b:28f553265113461f8a77278601ac3442
-[I 17:50:23.697 NotebookApp] Starting buffering for 4967cfa7-3d10-4623-bea5-bdaaaa4f2f86:b2d6c62a6ae147c68810103b9365ad54
-[I 17:50:29.829 NotebookApp] Starting buffering for fe900a1c-6569-4bf6-a342-53dfee34889c:01fbf4ae9a294d47851034902df4cc28
-[I 18:12:59.006 NotebookApp] Starting buffering for 1f514785-86ed-412a-bcd9-3088743a6055:d4155adf05204a0dbab0c95206a37ca0
-[I 19:18:32.434 NotebookApp] Starting buffering for 4967cfa7-3d10-4623-bea5-bdaaaa4f2f86:675afdde1b9448dd8ca7e5035bc39dd2
-[I 19:18:46.820 NotebookApp] Starting buffering for 4967cfa7-3d10-4623-bea5-bdaaaa4f2f86:c3d91dca88154b0dbc97c51c3ac65820
-[I 20:05:30.178 NotebookApp] Starting buffering for 83f0909c-2300-4de8-9cee-8e470c421b5b:87dd0faffc3c406fa0cbbccea0a2dda8
-[I 20:05:30.179 NotebookApp] Starting buffering for 1f514785-86ed-412a-bcd9-3088743a6055:7fafd7614ad9490db8114dd42fa21649
-[I 20:05:30.179 NotebookApp] Starting buffering for 58f63ce3-6daa-4824-b039-30362b39e2df:7cae6cbb8a16446b80c54a99c6e521f1
-[I 20:27:52.519 NotebookApp] Starting buffering for 4967cfa7-3d10-4623-bea5-bdaaaa4f2f86:af966a6c69264172992de5189578dcee
-[I 20:28:34.608 NotebookApp] Starting buffering for cb873c65-3b67-4150-bcee-87b76052d8e2:e83eb6b6f9314650a4da817705cf80f6
-[I 20:52:10.739 NotebookApp] Starting buffering for 83f0909c-2300-4de8-9cee-8e470c421b5b:f1bc6001c29d427a841818ee6a3be3c9
-[I 20:52:21.342 NotebookApp] Starting buffering for 4967cfa7-3d10-4623-bea5-bdaaaa4f2f86:9a5ded2e9f7740b289eed072abed0707
-[I 20:53:19.525 NotebookApp] Starting buffering for 4967cfa7-3d10-4623-bea5-bdaaaa4f2f86:a525235679294f44ae153c6ece1092c6
-[I 20:53:24.763 NotebookApp] Kernel shutdown: 4967cfa7-3d10-4623-bea5-bdaaaa4f2f86
-[W 20:53:24.765 NotebookApp] delete /stock_pro/train_test_data.ipynb
-[I 22:55:24.716 NotebookApp] Starting buffering for 1f514785-86ed-412a-bcd9-3088743a6055:11d12d29367b4ff69b5262cb43091595
-[I 22:55:26.300 NotebookApp] Starting buffering for 83f0909c-2300-4de8-9cee-8e470c421b5b:1ff723535cef4b2e89e9787ed8ee74c8
-[I 23:03:58.093 NotebookApp] Starting buffering for 58f63ce3-6daa-4824-b039-30362b39e2df:cac0f5ae932e4f8f8d408d692487afaf
-[I 23:04:00.976 NotebookApp] Kernel started: a9dc7185-f046-43ee-b0f1-364825e8d39f
-[I 23:04:04.944 NotebookApp] Starting buffering for a9dc7185-f046-43ee-b0f1-364825e8d39f:92f025baf1ee44ee868a123478c1875b
-[I 23:13:06.781 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 23:49:08.804 NotebookApp] Starting buffering for 1f514785-86ed-412a-bcd9-3088743a6055:6fbb26c8e98d478e8bd72dd3e8544b6b
-[I 23:49:09.186 NotebookApp] Starting buffering for 83f0909c-2300-4de8-9cee-8e470c421b5b:7bf70cdf8b224e0888d44a6ebb80031e
-[I 23:49:09.675 NotebookApp] Starting buffering for cb873c65-3b67-4150-bcee-87b76052d8e2:e5b0af93be3a4aa48a41832fa5855216
-[I 00:15:33.723 NotebookApp] Starting buffering for 83f0909c-2300-4de8-9cee-8e470c421b5b:580959cebb64444dad0a5aa658510f6f
-[I 00:20:51.160 NotebookApp] Starting buffering for 1f514785-86ed-412a-bcd9-3088743a6055:f732c2c3376e4815abcd27de3bb69c07
-[I 01:54:44.179 NotebookApp] 302 GET / (83.97.20.46) 0.76ms
-[I 11:27:23.979 NotebookApp] Starting buffering for 1f514785-86ed-412a-bcd9-3088743a6055:5f73ac802db0452f8b183ed1ea39357b
-[I 11:27:25.534 NotebookApp] Starting buffering for 8f697cb9-9fc9-44a3-babf-cd43ec32dc3a:ada682dbe5fe4a4a806f43ed17e02c5b
-[I 13:21:32.769 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 13:23:33.627 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 13:28:42.824 NotebookApp] Starting buffering for 58f63ce3-6daa-4824-b039-30362b39e2df:8f02d0ba09124875bca1b8d704e8370b
-[I 14:17:03.026 NotebookApp] Starting buffering for 83f0909c-2300-4de8-9cee-8e470c421b5b:e8736f551d0a457d8fa4226759ca1623
-[I 14:17:03.591 NotebookApp] Starting buffering for 1f514785-86ed-412a-bcd9-3088743a6055:f7ca4ab2502748ea8ae8c887cee4263c
-[I 21:37:55.832 NotebookApp] 302 GET / (139.224.114.212) 0.65ms
-[I 21:37:55.861 NotebookApp] 302 GET /tree? (139.224.114.212) 0.67ms
-[I 14:58:25.937 NotebookApp] 302 GET / (139.180.212.74) 0.59ms
-[I 14:58:26.212 NotebookApp] 302 GET /tree (139.180.212.74) 0.79ms
-[W 16:52:18.046 NotebookApp] 404 GET http://www.123cha.com/ (58.249.97.202) 39.01ms referer=None
-[W 16:52:18.048 NotebookApp] 404 GET http://www.baidu.com/ (58.249.97.202) 1.37ms referer=None
-[W 16:52:23.360 NotebookApp] 404 GET http://www.minghui.org/ (58.249.97.202) 1.63ms referer=None
-[W 16:52:23.384 NotebookApp] 404 GET http://www.boxun.com/ (58.249.97.202) 1.27ms referer=None
-[W 16:52:23.385 NotebookApp] 404 GET http://www.epochtimes.com/ (58.249.97.202) 1.11ms referer=None
-[W 16:52:23.402 NotebookApp] 404 GET http://www.bing.com/ (58.249.97.202) 1.15ms referer=None
-[W 16:52:30.085 NotebookApp] 404 GET http://www.rfa.org/ (58.249.97.202) 1.76ms referer=None
-[W 16:52:30.091 NotebookApp] 404 GET http://wujieliulan.com/ (58.249.97.202) 1.13ms referer=None
-[W 16:52:30.132 NotebookApp] 405 CONNECT www.voanews.com:443 (58.249.97.202) 2.52ms referer=None
-[I 19:16:01.447 NotebookApp] 302 GET / (198.108.67.48) 0.66ms
-[I 22:48:47.100 NotebookApp] Kernel interrupted: 83f0909c-2300-4de8-9cee-8e470c421b5b
-[I 22:48:49.477 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 22:50:49.683 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 22:52:49.669 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 22:54:49.659 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 22:56:49.435 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 22:58:49.658 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 23:00:49.746 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 23:03:14.358 NotebookApp] Saving file at /stock_pro/Untitled.ipynb
-[I 23:05:14.671 NotebookApp] Saving file at /stock_pro/train_data_check.ipynb
-[I 23:05:47.698 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 23:05:56.654 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 23:07:47.736 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 23:09:47.757 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 23:13:47.825 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 23:15:37.192 NotebookApp] Saving file at /stock_pro/train_data_check.ipynb
-[I 23:15:38.421 NotebookApp] Starting buffering for b6db7833-f1e4-45a9-90a2-172be56ce3c7:0e1d88e666aa47d58f92ce4eedae856f
-[I 23:15:39.723 NotebookApp] Starting buffering for 83f0909c-2300-4de8-9cee-8e470c421b5b:d81e0dc9fbd941bc8ccb2f26c0aaa0f2
-[I 23:15:47.654 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 23:16:42.435 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 23:17:47.577 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 23:19:47.612 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 23:21:47.756 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 23:23:48.140 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 23:25:48.114 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 00:30:50.991 NotebookApp] Starting buffering for 1f514785-86ed-412a-bcd9-3088743a6055:90aca306036d48ba8d46feb463a2fc0a
-[I 00:30:51.237 NotebookApp] Starting buffering for 8f697cb9-9fc9-44a3-babf-cd43ec32dc3a:7f5111abd38b46a7b5bfb582798dd28b
-[I 13:04:51.294 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 13:06:51.266 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 13:08:51.230 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 13:10:51.225 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 13:12:51.231 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 13:14:51.234 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 13:16:51.275 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 13:18:51.257 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 13:24:22.546 NotebookApp] Saving file at /stock_pro/train_data_check.ipynb
-[I 13:24:51.235 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 13:26:51.538 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 13:28:22.477 NotebookApp] Saving file at /stock_pro/train_data_check.ipynb
-[I 13:28:51.536 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 13:30:22.539 NotebookApp] Saving file at /stock_pro/train_data_check.ipynb
-[I 13:30:51.219 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 13:32:51.220 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 13:34:51.532 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 13:36:22.526 NotebookApp] Saving file at /stock_pro/train_data_check.ipynb
-[I 13:36:51.215 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 13:38:51.218 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 13:40:51.221 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 13:42:51.226 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 13:44:51.217 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 13:46:51.602 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 13:47:19.486 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 13:48:22.530 NotebookApp] Saving file at /stock_pro/train_data_check.ipynb
-[I 13:48:51.208 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 13:49:19.835 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 13:50:51.212 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 13:52:51.519 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 13:53:19.465 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 13:54:51.527 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 13:56:51.553 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 13:58:51.553 NotebookApp] Saving file at /stock_pro/train_data.ipynb
-[I 13:59:19.471 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 14:01:19.889 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 14:20:22.561 NotebookApp] Saving file at /stock_pro/train_data_check.ipynb
-[I 14:21:19.742 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 14:25:19.222 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 14:27:19.225 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 14:29:19.258 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 14:31:19.414 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 14:33:19.635 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 14:35:19.349 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 14:37:19.225 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 14:51:39.610 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 14:55:10.716 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 14:58:22.501 NotebookApp] Saving file at /stock_pro/train_data_check.ipynb
-[I 14:58:40.442 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 15:02:10.453 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 15:05:40.435 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 15:09:10.511 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 15:12:40.684 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 15:16:10.467 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 15:19:40.347 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 15:23:11.102 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 15:26:40.325 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 15:30:10.275 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 15:41:00.272 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 15:44:11.115 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 15:51:30.381 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 15:54:40.601 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 15:58:10.404 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 16:01:40.698 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 16:05:10.496 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn.ipynb
-[I 16:05:27.081 NotebookApp] Copying stock_pro/stock_duo_kong_nn.ipynb to /stock_pro
-[I 16:07:45.486 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 16:08:39.960 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 16:12:09.857 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 16:15:39.865 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 16:19:09.854 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 16:22:40.549 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 16:26:09.868 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 16:29:39.870 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 16:33:10.596 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 17:05:46.179 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 17:08:10.409 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 17:11:05.727 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 17:11:40.915 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 17:15:10.236 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 17:18:41.025 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 17:22:11.020 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 17:25:40.197 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 17:36:30.224 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 17:43:10.051 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 17:46:39.995 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 17:50:10.540 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 17:53:39.886 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 17:57:09.905 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 18:00:39.901 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 18:04:10.623 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 18:11:10.749 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 18:14:39.847 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 18:18:09.860 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 18:21:39.860 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 19:32:01.101 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 19:35:10.861 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 19:38:41.439 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 19:42:11.630 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 19:45:40.675 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 19:49:11.301 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 19:52:40.551 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 19:56:10.988 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 19:56:19.521 NotebookApp] Kernel started: ff99b742-a8f3-45e4-9660-475988630e6e
-[I 19:59:25.162 NotebookApp] Starting buffering for ff99b742-a8f3-45e4-9660-475988630e6e:1f11665b92664a94b905b03418ce13a9
-[I 19:59:31.482 NotebookApp] Starting buffering for b6db7833-f1e4-45a9-90a2-172be56ce3c7:d870c549c2254a8ebef53e0d0c08ca9c
-[I 19:59:33.364 NotebookApp] Starting buffering for 83f0909c-2300-4de8-9cee-8e470c421b5b:0bb9b9f48676456fa359bc169d6dda1d
-[I 19:59:40.620 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 19:59:45.421 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 20:03:09.814 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 20:45:11.634 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 20:59:30.282 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 21:17:01.155 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 21:20:10.456 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 21:23:41.096 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 21:25:20.711 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 21:27:10.422 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 21:28:41.370 NotebookApp] Kernel interrupted: 1f514785-86ed-412a-bcd9-3088743a6055
-[I 21:29:34.628 NotebookApp] Kernel interrupted: 1f514785-86ed-412a-bcd9-3088743a6055
-[I 21:29:45.402 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 21:29:52.077 NotebookApp] Kernel interrupted: 1f514785-86ed-412a-bcd9-3088743a6055
-[I 21:30:40.213 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 21:31:09.906 NotebookApp] Kernel interrupted: 1f514785-86ed-412a-bcd9-3088743a6055
-[I 21:31:18.444 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 21:31:19.210 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 21:31:23.648 NotebookApp] Starting buffering for 8f697cb9-9fc9-44a3-babf-cd43ec32dc3a:25b8378432d0464986fd486e84a32b30
-[I 21:31:26.694 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 21:31:27.467 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 21:31:37.259 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 21:31:38.006 NotebookApp] Starting buffering for 1f514785-86ed-412a-bcd9-3088743a6055:91ce06e562a942c08508aadc2b9f8915
-[I 21:32:53.812 NotebookApp] Kernel interrupted: 1f514785-86ed-412a-bcd9-3088743a6055
-[I 21:33:55.598 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 21:34:05.395 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 21:35:55.644 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 21:37:56.659 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 21:39:18.015 NotebookApp] 302 GET / (106.14.177.124) 0.64ms
-[I 21:39:18.044 NotebookApp] 302 GET /tree? (106.14.177.124) 0.83ms
-[I 22:12:16.912 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 22:15:57.237 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 22:19:37.464 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 22:23:17.254 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 22:26:05.392 NotebookApp] Saving file at /stock_pro/w_init.ipynb
-[I 22:26:57.603 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 22:30:37.679 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 23:14:57.235 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 23:25:56.981 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 23:29:17.627 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 23:36:57.168 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 23:50:27.212 NotebookApp] 302 GET / (111.229.252.7) 0.67ms
-[I 23:50:27.279 NotebookApp] 302 GET /tree? (111.229.252.7) 0.82ms
-[I 23:58:57.171 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 00:28:17.005 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 00:31:37.478 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 00:35:17.429 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 00:36:34.641 NotebookApp] Kernel interrupted: 1f514785-86ed-412a-bcd9-3088743a6055
-[I 00:38:59.030 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 00:42:38.149 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 00:46:18.148 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 00:48:59.585 NotebookApp] Starting buffering for 8f697cb9-9fc9-44a3-babf-cd43ec32dc3a:6c58d5f5f9f54c04a6f9538456d00a17
-[I 00:49:02.569 NotebookApp] Saving file at /stock_pro/stock_duo_kong_nn_30.ipynb
-[I 00:49:03.611 NotebookApp] Starting buffering for 1f514785-86ed-412a-bcd9-3088743a6055:1a7cc8dec06c4fd88ecc932056b3f35f
-[I 14:56:11.302 NotebookApp] Saving file at /stock_pro/train_data_check.ipynb
-[W 15:41:11.350 NotebookApp] WebSocket ping timeout after 119967 ms.
-[I 15:41:16.352 NotebookApp] Starting buffering for b6db7833-f1e4-45a9-90a2-172be56ce3c7:2fe1c560c29547de89c04ad23cacb02f
-[W 15:41:37.304 NotebookApp] WebSocket ping timeout after 119965 ms.
-[I 15:41:42.305 NotebookApp] Starting buffering for ff99b742-a8f3-45e4-9660-475988630e6e:91cb21e1ab0546a187f0d6e1c9329e99
-[I 15:47:27.606 NotebookApp] Restoring connection for b6db7833-f1e4-45a9-90a2-172be56ce3c7:2fe1c560c29547de89c04ad23cacb02f
-[I 15:47:53.589 NotebookApp] Restoring connection for ff99b742-a8f3-45e4-9660-475988630e6e:91cb21e1ab0546a187f0d6e1c9329e99
-[I 16:17:40.211 NotebookApp] Starting buffering for ff99b742-a8f3-45e4-9660-475988630e6e:91cb21e1ab0546a187f0d6e1c9329e99
-[I 16:17:40.212 NotebookApp] Starting buffering for b6db7833-f1e4-45a9-90a2-172be56ce3c7:2fe1c560c29547de89c04ad23cacb02f
-[I 21:57:01.940 NotebookApp] 302 GET / (47.97.10.19) 0.76ms
-[I 11:50:20.506 NotebookApp] Creating new notebook in /stock_pro
-[I 11:50:21.201 NotebookApp] Kernel started: 0f4ddb30-4829-46b2-8cf4-8b9f48f2656e
-[I 11:52:21.234 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 11:54:21.439 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 12:10:21.680 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 12:12:21.425 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 12:20:21.700 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 12:22:21.239 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 12:48:21.657 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 12:50:21.215 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 12:52:21.215 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 12:54:21.218 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 12:56:21.213 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 12:58:21.409 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 13:00:21.214 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 13:02:21.222 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 13:04:21.211 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 13:06:21.210 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 13:08:21.209 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 13:10:21.416 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 13:12:21.406 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 13:14:21.209 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 13:18:21.206 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 13:20:21.208 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 13:30:21.907 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 13:32:21.208 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 13:34:21.407 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 13:36:21.207 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 13:38:21.207 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 13:40:21.206 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 13:42:21.208 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 13:52:21.677 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 13:54:21.198 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 13:56:21.200 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 13:58:21.231 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 14:00:21.267 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 14:02:21.196 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 14:04:21.206 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 14:06:21.198 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 14:08:21.196 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 14:18:21.678 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 14:30:21.684 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 14:32:21.191 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 14:34:21.193 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 14:36:21.389 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 14:38:21.191 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 14:40:21.264 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 14:41:45.736 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 14:42:21.229 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 14:44:21.266 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 14:46:21.424 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 14:48:21.568 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 14:50:21.490 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 14:52:21.491 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 14:54:21.493 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 14:56:21.493 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 14:58:21.503 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 15:00:21.486 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 15:02:21.537 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 15:04:21.489 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 15:06:21.514 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 15:08:21.487 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 15:10:21.639 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 15:13:13.383 NotebookApp] Saving file at /stock_pro/duo_kong_nn_30.ipynb
-[I 15:13:14.612 NotebookApp] Starting buffering for 1f514785-86ed-412a-bcd9-3088743a6055:db3751e357db4d7e830f450ae99548fe
-[I 15:13:27.757 NotebookApp] Kernel shutdown: 1f514785-86ed-412a-bcd9-3088743a6055
-[W 15:13:27.759 NotebookApp] delete /stock_pro/stock_duo_kong_nn_30.ipynb
+[W 23:05:23.676 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 23:05:23.689 NotebookApp] Serving notebooks from local directory: /zqh/pyproject
+[I 23:05:23.690 NotebookApp] The Jupyter Notebook is running at:
+[I 23:05:23.690 NotebookApp] http://iZwz9ix2sgagsdqpj4ufebZ:8889/
+[I 23:05:23.690 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 23:11:45.229 NotebookApp] Kernel started: 23c24990-b185-4612-9638-f34da49e67ac
+[W 23:11:45.343 NotebookApp] Forbidden
+[W 23:11:45.343 NotebookApp] 403 GET /api/contents/stock_pro?type=directory&_=1581347450307 (183.227.137.158) 1.24ms referer=http://120.24.63.215:8889/tree/stock_pro
+[W 23:11:45.345 NotebookApp] Forbidden
+[W 23:11:45.346 NotebookApp] 403 GET /api/contents/stock_pro?type=directory&_=1581347450308 (183.227.137.158) 0.85ms referer=http://120.24.63.215:8889/tree/stock_pro
+[W 23:11:45.370 NotebookApp] Forbidden
+[W 23:11:45.370 NotebookApp] 403 PUT /api/contents/stock_pro/duo_kong_svm_30.ipynb (183.227.137.158) 1.47ms referer=http://120.24.63.215:8889/notebooks/stock_pro/duo_kong_svm_30.ipynb
+[I 23:11:54.087 NotebookApp] 302 GET /tree? (183.227.137.158) 1.01ms
+[I 23:11:58.554 NotebookApp] 302 POST /login?next=%2Ftree%3F (183.227.137.158) 1.55ms
+[W 23:12:03.827 NotebookApp] zmq message arrived on closed channel
+[W 23:12:03.831 NotebookApp] zmq message arrived on closed channel
+[W 23:12:03.832 NotebookApp] zmq message arrived on closed channel
+[W 23:12:03.837 NotebookApp] zmq message arrived on closed channel
+[W 23:12:06.626 NotebookApp] zmq message arrived on closed channel
+[W 23:12:06.628 NotebookApp] zmq message arrived on closed channel
+[W 23:12:12.416 NotebookApp] zmq message arrived on closed channel
+[W 23:12:14.782 NotebookApp] zmq message arrived on closed channel
+[W 23:12:14.784 NotebookApp] zmq message arrived on closed channel
+[W 23:12:15.086 NotebookApp] zmq message arrived on closed channel
+[W 23:12:16.122 NotebookApp] zmq message arrived on closed channel
+[W 23:12:16.124 NotebookApp] zmq message arrived on closed channel
+[W 23:12:16.126 NotebookApp] zmq message arrived on closed channel
+[W 23:12:16.129 NotebookApp] zmq message arrived on closed channel
+[W 23:12:18.795 NotebookApp] zmq message arrived on closed channel
+[W 23:12:18.797 NotebookApp] zmq message arrived on closed channel
+[W 23:12:18.817 NotebookApp] zmq message arrived on closed channel
+[W 23:12:21.220 NotebookApp] zmq message arrived on closed channel
+[W 23:12:21.223 NotebookApp] zmq message arrived on closed channel
+[W 23:12:21.225 NotebookApp] zmq message arrived on closed channel
+[W 23:12:21.228 NotebookApp] zmq message arrived on closed channel
+[W 23:12:22.945 NotebookApp] zmq message arrived on closed channel
+[W 23:12:22.947 NotebookApp] zmq message arrived on closed channel
+[W 23:12:23.391 NotebookApp] zmq message arrived on closed channel
+[W 23:12:23.397 NotebookApp] zmq message arrived on closed channel
+[W 23:12:26.400 NotebookApp] zmq message arrived on closed channel
+[W 23:12:26.402 NotebookApp] zmq message arrived on closed channel
+[W 23:12:26.949 NotebookApp] zmq message arrived on closed channel
+[W 23:12:27.098 NotebookApp] zmq message arrived on closed channel
+[W 23:12:27.101 NotebookApp] zmq message arrived on closed channel
+[W 23:12:29.846 NotebookApp] zmq message arrived on closed channel
+[W 23:12:29.849 NotebookApp] zmq message arrived on closed channel
+[W 23:12:30.148 NotebookApp] zmq message arrived on closed channel
+[W 23:12:30.154 NotebookApp] zmq message arrived on closed channel
+[W 23:12:38.409 NotebookApp] zmq message arrived on closed channel
+[W 23:12:38.411 NotebookApp] zmq message arrived on closed channel
+[W 23:12:38.839 NotebookApp] zmq message arrived on closed channel
+[W 23:12:38.843 NotebookApp] zmq message arrived on closed channel
+[W 23:12:39.873 NotebookApp] zmq message arrived on closed channel
+[W 23:12:39.876 NotebookApp] zmq message arrived on closed channel
+[W 23:12:40.408 NotebookApp] zmq message arrived on closed channel
+[W 23:12:40.542 NotebookApp] zmq message arrived on closed channel
+[W 23:12:40.545 NotebookApp] zmq message arrived on closed channel
+[W 23:12:43.792 NotebookApp] zmq message arrived on closed channel
+[W 23:12:43.795 NotebookApp] zmq message arrived on closed channel
+[W 23:12:44.080 NotebookApp] zmq message arrived on closed channel
+[W 23:12:44.084 NotebookApp] zmq message arrived on closed channel
+[W 23:12:52.682 NotebookApp] zmq message arrived on closed channel
+[W 23:12:52.685 NotebookApp] zmq message arrived on closed channel
+[W 23:12:53.294 NotebookApp] zmq message arrived on closed channel
+[W 23:12:53.299 NotebookApp] zmq message arrived on closed channel
+[W 23:12:54.883 NotebookApp] zmq message arrived on closed channel
+[W 23:12:54.886 NotebookApp] zmq message arrived on closed channel
+[W 23:12:55.581 NotebookApp] zmq message arrived on closed channel
+[W 23:12:55.859 NotebookApp] zmq message arrived on closed channel
+[W 23:12:55.863 NotebookApp] zmq message arrived on closed channel
+[W 23:12:58.336 NotebookApp] zmq message arrived on closed channel
+[W 23:12:58.338 NotebookApp] zmq message arrived on closed channel
+[W 23:12:58.739 NotebookApp] zmq message arrived on closed channel
+[W 23:12:58.753 NotebookApp] zmq message arrived on closed channel
+[W 23:12:58.756 NotebookApp] zmq message arrived on closed channel
+[W 23:13:18.079 NotebookApp] zmq message arrived on closed channel
+[W 23:13:18.081 NotebookApp] zmq message arrived on closed channel
+[W 23:13:18.557 NotebookApp] zmq message arrived on closed channel
+[W 23:13:18.563 NotebookApp] zmq message arrived on closed channel
+[W 23:13:19.586 NotebookApp] zmq message arrived on closed channel
+[W 23:13:19.587 NotebookApp] zmq message arrived on closed channel
+[W 23:13:20.151 NotebookApp] zmq message arrived on closed channel
+[W 23:13:20.317 NotebookApp] zmq message arrived on closed channel
+[W 23:13:20.320 NotebookApp] zmq message arrived on closed channel
+[W 23:13:22.167 NotebookApp] zmq message arrived on closed channel
+[W 23:13:22.169 NotebookApp] zmq message arrived on closed channel
+[W 23:13:22.483 NotebookApp] zmq message arrived on closed channel
+[W 23:13:22.486 NotebookApp] zmq message arrived on closed channel
+[W 23:13:31.003 NotebookApp] zmq message arrived on closed channel
+[W 23:13:31.005 NotebookApp] zmq message arrived on closed channel
+[W 23:13:31.455 NotebookApp] zmq message arrived on closed channel
+[W 23:13:31.459 NotebookApp] zmq message arrived on closed channel
+[W 23:13:32.332 NotebookApp] zmq message arrived on closed channel
+[W 23:13:32.334 NotebookApp] zmq message arrived on closed channel
+[W 23:13:32.886 NotebookApp] zmq message arrived on closed channel
+[W 23:13:33.041 NotebookApp] zmq message arrived on closed channel
+[W 23:13:33.044 NotebookApp] zmq message arrived on closed channel
+[W 23:13:39.060 NotebookApp] zmq message arrived on closed channel
+[W 23:13:39.062 NotebookApp] zmq message arrived on closed channel
+[W 23:13:39.523 NotebookApp] zmq message arrived on closed channel
+[W 23:13:39.527 NotebookApp] zmq message arrived on closed channel
+[W 23:13:40.275 NotebookApp] zmq message arrived on closed channel
+[W 23:13:40.277 NotebookApp] zmq message arrived on closed channel
+[W 23:13:40.802 NotebookApp] zmq message arrived on closed channel
+[W 23:13:40.928 NotebookApp] zmq message arrived on closed channel
+[W 23:13:40.931 NotebookApp] zmq message arrived on closed channel
+[W 23:13:42.393 NotebookApp] zmq message arrived on closed channel
+[W 23:13:42.396 NotebookApp] zmq message arrived on closed channel
+[W 23:13:42.692 NotebookApp] zmq message arrived on closed channel
+[W 23:13:42.696 NotebookApp] zmq message arrived on closed channel
+[W 23:13:55.750 NotebookApp] zmq message arrived on closed channel
+[W 23:13:55.752 NotebookApp] zmq message arrived on closed channel
+[W 23:13:56.167 NotebookApp] zmq message arrived on closed channel
+[W 23:13:56.172 NotebookApp] zmq message arrived on closed channel
+[W 23:13:57.225 NotebookApp] zmq message arrived on closed channel
+[W 23:13:57.228 NotebookApp] zmq message arrived on closed channel
+[W 23:13:57.755 NotebookApp] zmq message arrived on closed channel
+[W 23:13:57.884 NotebookApp] zmq message arrived on closed channel
+[W 23:13:57.887 NotebookApp] zmq message arrived on closed channel
+[W 23:13:58.906 NotebookApp] zmq message arrived on closed channel
+[W 23:13:58.908 NotebookApp] zmq message arrived on closed channel
+[W 23:13:59.195 NotebookApp] zmq message arrived on closed channel
+[W 23:13:59.198 NotebookApp] zmq message arrived on closed channel
+[I 23:14:03.601 NotebookApp] Saving file at /stock_pro/duo_kong_svm_30.ipynb
+[W 23:14:10.389 NotebookApp] zmq message arrived on closed channel
+[W 23:14:10.391 NotebookApp] zmq message arrived on closed channel
+[W 23:14:10.810 NotebookApp] zmq message arrived on closed channel
+[W 23:14:10.814 NotebookApp] zmq message arrived on closed channel
+[W 23:14:11.714 NotebookApp] zmq message arrived on closed channel
+[W 23:14:11.716 NotebookApp] zmq message arrived on closed channel
+[W 23:14:12.236 NotebookApp] zmq message arrived on closed channel
+[W 23:14:12.358 NotebookApp] zmq message arrived on closed channel
+[W 23:14:12.361 NotebookApp] zmq message arrived on closed channel
+[W 23:14:13.463 NotebookApp] zmq message arrived on closed channel
+[W 23:14:13.466 NotebookApp] zmq message arrived on closed channel
+[W 23:14:13.873 NotebookApp] zmq message arrived on closed channel
+[W 23:14:13.880 NotebookApp] zmq message arrived on closed channel
+[W 23:14:13.885 NotebookApp] zmq message arrived on closed channel
+[W 23:14:24.936 NotebookApp] zmq message arrived on closed channel
+[W 23:14:24.938 NotebookApp] zmq message arrived on closed channel
+[W 23:14:25.363 NotebookApp] zmq message arrived on closed channel
+[W 23:14:25.369 NotebookApp] zmq message arrived on closed channel
+[W 23:14:26.524 NotebookApp] zmq message arrived on closed channel
+[W 23:14:26.527 NotebookApp] zmq message arrived on closed channel
+[W 23:14:27.050 NotebookApp] zmq message arrived on closed channel
+[W 23:14:27.172 NotebookApp] zmq message arrived on closed channel
+[W 23:14:27.175 NotebookApp] zmq message arrived on closed channel
+[W 23:14:29.496 NotebookApp] zmq message arrived on closed channel
+[W 23:14:29.498 NotebookApp] zmq message arrived on closed channel
+[W 23:14:29.783 NotebookApp] zmq message arrived on closed channel
+[W 23:14:29.787 NotebookApp] zmq message arrived on closed channel
+[I 23:14:45.108 NotebookApp] Saving file at /stock_pro/duo_kong_svm_30.ipynb
+[I 23:14:46.140 NotebookApp] Saving file at /stock_pro/duo_kong_svm_30.ipynb
+[I 23:14:47.144 NotebookApp] Starting buffering for 23c24990-b185-4612-9638-f34da49e67ac:5c0fc51707274b9683c31887980b4d22
+[I 08:32:33.993 NotebookApp] 302 GET / (106.15.52.246) 0.83ms
