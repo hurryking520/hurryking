@@ -154,3 +154,158 @@ nohup: ignoring input
 [I 23:14:46.140 NotebookApp] Saving file at /stock_pro/duo_kong_svm_30.ipynb
 [I 23:14:47.144 NotebookApp] Starting buffering for 23c24990-b185-4612-9638-f34da49e67ac:5c0fc51707274b9683c31887980b4d22
 [I 08:32:33.993 NotebookApp] 302 GET / (106.15.52.246) 0.83ms
+[I 05:22:23.126 NotebookApp] 302 GET / (83.97.20.46) 0.75ms
+[I 10:27:25.319 NotebookApp] 302 GET / (198.108.67.48) 0.68ms
+[I 14:00:19.176 NotebookApp] 302 GET / (198.108.67.48) 0.84ms
+[I 17:27:19.151 NotebookApp] 302 GET / (198.108.67.48) 0.84ms
+[I 18:51:23.860 NotebookApp] 302 GET / (198.108.67.48) 0.63ms
+[I 20:02:59.493 NotebookApp] 302 GET / (198.108.67.48) 0.59ms
+[I 21:52:31.364 NotebookApp] 302 GET / (47.92.101.189) 0.65ms
+[I 21:52:31.410 NotebookApp] 302 GET /tree? (47.92.101.189) 0.76ms
+[I 22:27:28.331 NotebookApp] 302 GET / (198.108.67.48) 0.61ms
+[I 00:04:51.908 NotebookApp] 302 GET / (202.202.217.76) 0.60ms
+[I 00:04:52.095 NotebookApp] 302 GET / (202.115.254.100) 0.69ms
+[I 00:04:52.188 NotebookApp] 302 GET /tree? (202.115.254.100) 0.67ms
+[I 04:19:15.345 NotebookApp] 302 GET / (198.108.67.48) 0.62ms
+[I 12:27:04.033 NotebookApp] 302 GET / (119.61.6.133) 0.69ms
+[I 15:42:44.240 NotebookApp] Kernel started: 797e9599-a386-4d6d-abdb-13f888303457
+[I 15:46:31.371 NotebookApp] Kernel started: 365bcff0-f929-47a6-bacd-984b545f9139
+[I 15:46:44.637 NotebookApp] Saving file at /stock_pro/w_init.ipynb
+[I 15:46:51.225 NotebookApp] Starting buffering for 365bcff0-f929-47a6-bacd-984b545f9139:5cefce4fbcf34da7acdf201ba625f6a7
+[I 15:46:52.483 NotebookApp] Starting buffering for 797e9599-a386-4d6d-abdb-13f888303457:070a89b2b6454d6b9d0da6848f81d987
+[I 15:47:48.878 NotebookApp] Kernel started: 839b9d68-271a-41e4-8757-4ba5349a707f
+[I 15:53:48.941 NotebookApp] Saving file at /Keyboardtest.ipynb
+[I 15:57:59.230 NotebookApp] Starting buffering for 839b9d68-271a-41e4-8757-4ba5349a707f:da60193e8c8545bc827d71eadd61d34a
+[I 15:59:08.875 NotebookApp] Starting buffering for 839b9d68-271a-41e4-8757-4ba5349a707f:bfca6a5dea2b4a0988296977038c3ef4
+[I 16:01:47.637 NotebookApp] Saving file at /Keyboardtest.ipynb
+[I 16:03:11.323 NotebookApp] Starting buffering for 839b9d68-271a-41e4-8757-4ba5349a707f:617fc421cfe84322bed25dcead34b63c
+[I 22:01:29.422 NotebookApp] 302 GET / (89.248.167.131) 0.63ms
+[I 11:43:05.727 NotebookApp] 302 GET / (64.64.104.10) 0.66ms
+[I 19:05:23.089 NotebookApp] 302 GET / (185.142.236.34) 0.58ms
+[I 20:52:27.991 NotebookApp] 302 GET / (47.101.154.181) 0.60ms
+[I 20:52:28.025 NotebookApp] 302 GET /tree? (47.101.154.181) 0.79ms
+[I 00:10:10.983 NotebookApp] 302 GET / (119.23.138.247) 0.83ms
+[I 23:58:33.478 NotebookApp] Kernel started: ddc9482b-8fcd-4a16-b973-d2da201c482f
+[I 23:58:44.292 NotebookApp] Creating new notebook in /stock_pro
+[I 23:58:45.099 NotebookApp] Kernel started: 826520ed-c2f4-4633-97f9-702e889da6d4
+[I 00:00:45.998 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 00:02:45.139 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 00:04:45.147 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 00:06:38.174 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 00:06:41.350 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 00:16:45.149 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 00:30:43.579 NotebookApp] Starting buffering for 826520ed-c2f4-4633-97f9-702e889da6d4:f5d68d137fa04eb383a8522481cbe2b5
+[I 00:30:43.579 NotebookApp] Starting buffering for ddc9482b-8fcd-4a16-b973-d2da201c482f:5f78b6b54b934fe29ae74efdc65f652c
+[I 10:46:58.377 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 10:47:00.617 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 10:47:35.464 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 10:48:10.046 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 11:06:10.923 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 11:08:10.053 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 11:10:10.245 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 11:12:10.076 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 11:14:10.593 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 11:14:14.361 NotebookApp] Kernel started: f31abd12-2428-485b-95a7-4ec8c8d69979
+[I 11:14:21.075 NotebookApp] Starting buffering for f31abd12-2428-485b-95a7-4ec8c8d69979:8d7412967c68471b8163f56d4d734e0f
+[I 11:14:31.647 NotebookApp] Kernel started: 245123c4-a16f-4095-ad82-ab16e62dec37
+[I 11:14:33.286 NotebookApp] Starting buffering for 245123c4-a16f-4095-ad82-ab16e62dec37:bc2043418b974a6d884baec17985ae79
+[I 11:16:42.620 NotebookApp] Saving file at /stock_pro/save_dayk_all.ipynb
+[I 11:18:13.343 NotebookApp] Starting buffering for 826520ed-c2f4-4633-97f9-702e889da6d4:b7fa79bd56e74a85b02dbfa367e0d8c7
+[I 11:18:13.857 NotebookApp] Kernel restarted: 826520ed-c2f4-4633-97f9-702e889da6d4
+[I 11:18:42.417 NotebookApp] Restoring connection for 826520ed-c2f4-4633-97f9-702e889da6d4:b7fa79bd56e74a85b02dbfa367e0d8c7
+[I 11:18:42.417 NotebookApp] Replaying 6 buffered messages
+[I 11:18:42.566 NotebookApp] Saving file at /stock_pro/save_dayk_all.ipynb
+[I 11:18:42.715 NotebookApp] Kernel interrupted: 826520ed-c2f4-4633-97f9-702e889da6d4
+[I 11:18:51.687 NotebookApp] Kernel interrupted: 826520ed-c2f4-4633-97f9-702e889da6d4
+[I 11:19:02.115 NotebookApp] Starting buffering for 826520ed-c2f4-4633-97f9-702e889da6d4:b7fa79bd56e74a85b02dbfa367e0d8c7
+[I 11:19:50.614 NotebookApp] Starting buffering for 826520ed-c2f4-4633-97f9-702e889da6d4:4e70ec4f98814d9888ea41687cad1ac3
+[I 11:19:50.926 NotebookApp] Kernel restarted: 826520ed-c2f4-4633-97f9-702e889da6d4
+[I 11:19:51.583 NotebookApp] Restoring connection for 826520ed-c2f4-4633-97f9-702e889da6d4:4e70ec4f98814d9888ea41687cad1ac3
+[I 11:19:51.583 NotebookApp] Replaying 6 buffered messages
+[I 11:21:07.589 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 11:27:07.125 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 11:41:07.607 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 11:43:07.082 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 11:44:40.655 NotebookApp] Saving file at /stock_pro/save_dayk_all.ipynb
+[I 11:44:45.970 NotebookApp] Saving file at /stock_pro/save_dayk_all.ipynb
+[I 11:44:46.760 NotebookApp] Saving file at /stock_pro/save_dayk_all.ipynb
+[I 11:44:53.625 NotebookApp] Saving file at /stock_pro/save_dayk_all.ipynb
+[I 11:44:54.440 NotebookApp] Saving file at /stock_pro/save_dayk_all.ipynb
+[I 11:44:55.708 NotebookApp] Starting buffering for ddc9482b-8fcd-4a16-b973-d2da201c482f:c2a8167250224e18a72645d5d80be1f1
+[I 11:44:59.553 NotebookApp] Kernel interrupted: 826520ed-c2f4-4633-97f9-702e889da6d4
+[I 11:45:07.220 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 11:46:04.303 NotebookApp] Kernel interrupted: 826520ed-c2f4-4633-97f9-702e889da6d4
+[I 11:46:34.336 NotebookApp] Kernel started: c7aab9d9-ee83-46c1-b5e2-c1674347a481
+[I 11:46:39.190 NotebookApp] Starting buffering for c7aab9d9-ee83-46c1-b5e2-c1674347a481:d43be7b311914526b76ac53f425722fa
+[I 11:46:52.190 NotebookApp] Kernel started: 92d05d1a-287a-46cf-a075-6148a6440762
+[I 11:47:11.235 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 11:48:07.467 NotebookApp] Kernel interrupted: 826520ed-c2f4-4633-97f9-702e889da6d4
+[I 11:49:07.085 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 12:03:07.654 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 12:05:07.129 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 12:07:07.118 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 12:08:25.057 NotebookApp] Starting buffering for 92d05d1a-287a-46cf-a075-6148a6440762:4e3c9af31cf84becabf44e073921e60a
+[I 12:11:07.089 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 12:18:16.864 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 12:42:57.969 NotebookApp] 302 GET / (47.94.52.159) 0.77ms
+[I 13:49:55.268 NotebookApp] Starting buffering for ddc9482b-8fcd-4a16-b973-d2da201c482f:b136be72a8994de0879564dcb8a5b6cc
+[I 13:49:55.269 NotebookApp] Starting buffering for 826520ed-c2f4-4633-97f9-702e889da6d4:4e70ec4f98814d9888ea41687cad1ac3
+[I 13:52:48.285 NotebookApp] Restoring connection for ddc9482b-8fcd-4a16-b973-d2da201c482f:b136be72a8994de0879564dcb8a5b6cc
+[I 13:52:51.368 NotebookApp] Restoring connection for 826520ed-c2f4-4633-97f9-702e889da6d4:4e70ec4f98814d9888ea41687cad1ac3
+[I 18:40:08.607 NotebookApp] 302 GET / (47.110.180.34) 0.69ms
+[I 18:46:21.907 NotebookApp] Starting buffering for 826520ed-c2f4-4633-97f9-702e889da6d4:4e70ec4f98814d9888ea41687cad1ac3
+[I 18:46:21.907 NotebookApp] Starting buffering for 92d05d1a-287a-46cf-a075-6148a6440762:53551319b77a49379d6230895dcf29f1
+[I 18:46:21.908 NotebookApp] Starting buffering for ddc9482b-8fcd-4a16-b973-d2da201c482f:b136be72a8994de0879564dcb8a5b6cc
+[I 19:26:33.913 NotebookApp] Restoring connection for ddc9482b-8fcd-4a16-b973-d2da201c482f:b136be72a8994de0879564dcb8a5b6cc
+[I 19:26:34.002 NotebookApp] Restoring connection for 826520ed-c2f4-4633-97f9-702e889da6d4:4e70ec4f98814d9888ea41687cad1ac3
+[I 19:26:34.091 NotebookApp] Restoring connection for 92d05d1a-287a-46cf-a075-6148a6440762:53551319b77a49379d6230895dcf29f1
+[I 19:27:39.706 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 20:31:07.244 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 20:33:06.746 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 20:35:06.747 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 20:37:06.747 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 20:39:07.305 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 20:40:27.827 NotebookApp] Kernel interrupted: 826520ed-c2f4-4633-97f9-702e889da6d4
+[I 20:40:50.073 NotebookApp] Kernel interrupted: 826520ed-c2f4-4633-97f9-702e889da6d4
+[I 20:41:05.779 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 20:41:06.736 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 20:41:21.432 NotebookApp] Kernel interrupted: 826520ed-c2f4-4633-97f9-702e889da6d4
+[I 20:43:07.358 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 20:45:07.595 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 20:47:07.189 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 20:49:07.705 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 21:07:27.537 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 21:10:58.718 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 22:06:47.412 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 22:06:58.146 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 22:10:28.640 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 22:13:58.634 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 22:28:18.464 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 22:31:42.612 NotebookApp] 302 GET / (83.97.20.46) 0.67ms
+[I 22:38:49.625 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 22:50:10.466 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 23:08:10.370 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 23:09:11.667 NotebookApp] Starting buffering for c7aab9d9-ee83-46c1-b5e2-c1674347a481:c6c576e1854a4c418f4ea33ec81a6505
+[I 23:09:15.352 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 23:11:50.343 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 23:13:18.799 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 23:15:29.919 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 23:15:41.131 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 23:23:39.566 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 23:32:21.134 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 23:33:50.301 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 23:37:30.174 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 23:52:09.826 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 23:55:50.174 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 00:33:03.181 NotebookApp] Starting buffering for 826520ed-c2f4-4633-97f9-702e889da6d4:4e70ec4f98814d9888ea41687cad1ac3
+[I 00:33:04.539 NotebookApp] Starting buffering for ddc9482b-8fcd-4a16-b973-d2da201c482f:b136be72a8994de0879564dcb8a5b6cc
+[I 00:33:04.868 NotebookApp] Starting buffering for 92d05d1a-287a-46cf-a075-6148a6440762:53551319b77a49379d6230895dcf29f1
+[I 00:33:05.374 NotebookApp] Starting buffering for c7aab9d9-ee83-46c1-b5e2-c1674347a481:f900dbf6ffe34ba58547244eaa7ad8e6
+[I 11:41:50.352 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 15:02:44.858 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 15:05:05.930 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[I 15:05:14.302 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
+[W 15:42:36.016 NotebookApp] WebSocket ping timeout after 119959 ms.
+[I 15:42:41.018 NotebookApp] Starting buffering for 826520ed-c2f4-4633-97f9-702e889da6d4:c3bc407d1f1c4bc38c85e66306455219
+[I 15:48:52.590 NotebookApp] Restoring connection for 826520ed-c2f4-4633-97f9-702e889da6d4:c3bc407d1f1c4bc38c85e66306455219
+[I 16:18:45.876 NotebookApp] Saving file at /stock_pro/save_dayk_ndays.ipynb
